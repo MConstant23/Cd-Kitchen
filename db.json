@@ -1,0 +1,89 @@
+{
+  "recettes": [
+    {
+      "id": "1",
+      "titre": "Crêpes Moelleuses",
+      "ingredients": "250g de farine, 4 œufs, 50cl de lait, 1 pincée de sel, 20g de beurre fondu.",
+      "instructions": "Mélanger la farine et le sel. Ajouter les œufs puis le lait progressivement pour éviter les grumeaux. Ajouter le beurre fondu. Laisser reposer 30 min. Cuire dans une poêle chaude huilée.",
+      "imageUrl": "https://i.pinimg.com/1200x/69/f6/6a/69f66a1db143f87267a7298b477f0081.jpg"
+    },
+    {
+      "id": "2",
+      "titre": "Guacamole Maison",
+      "ingredients": "3 avocats mûrs, 1/2 oignon rouge, 1 tomate, 1 brin de coriandre, jus de 1 citron vert, sel, piment.",
+      "instructions": "Écraser la chair des avocats à la fourchette. Ajouter l'oignon, la tomate et la coriandre finement coupés. Incorporer le jus de citron vert, le sel et le piment selon les goûts. Servir frais.",
+      "imageUrl": "https://images.unsplash.com/photo-1547496502-affa22d38842?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "3",
+      "titre": "Poulet Yassa Traditionnel",
+      "ingredients": "4 cuisses de poulet, 6 gros oignons, 4 citrons verts, 3 cuillères à soupe de moutarde, 2 gousses d'ail, 1 piment, huile, sel, poivre.",
+      "instructions": "Mariner le poulet avec le jus de citron, la moutarde, l'ail émincé, du sel et du poivre pendant au moins 2h. Faire dorer les cuisses de poulet dans une marmite avec un peu d'huile. Retirer le poulet, puis faire suer les oignons émincés dans la même marmite. Ajouter le reste de la marinade, un demi-verre d'eau et le piment entier. Remettre le poulet et laisser mijoter à feu doux pendant 30 minutes. Servir chaud avec du riz blanc.",
+      "imageUrl": "https://i.pinimg.com/736x/fc/3a/28/fc3a28fd73412e254153b4a4170779d3.jpg"
+    },
+    {
+      "id": "4",
+      "titre": "Burger Maison Gourmand",
+      "ingredients": "2 pains burger (buns), 2 steaks hachés de bœuf, 2 tranches de cheddar, 1/2 oignon rouge, quelques feuilles de salade, 1 tomate, sauce burger.",
+      "instructions": "Couper les pains en deux et les toaster légèrement. Faire cuire les steaks à la poêle selon la cuisson désirée. Déposer une tranche de cheddar sur chaque steak en fin de cuisson pour la faire fondre. Tartiner les pains de sauce, ajouter la salade, des rondelles de tomate, l'oignon rouge émincé, puis le steak au fromage. Refermer et déguster immédiatement avec des frites.",
+      "imageUrl": "https://i.pinimg.com/736x/2c/41/e8/2c41e87be86e580b23524d7943a232eb.jpg"
+    },
+    {
+      "id": "5",
+      "titre": "Salade César Croustillante",
+      "ingredients": "1 salade romaine, 2 blancs de poulet, 1 poignée de croûtons de pain, 30g de parmesan en copeaux, sauce César (anchois, ail, mayonnaise, parmesan).",
+      "instructions": "Faire cuire les blancs de poulet à la poêle puis les couper en lamelles. Laver et couper la salade romaine. Dans un grand saladier, mélanger la salade avec la sauce César. Répartir le poulet tiède, les croûtons croustillants et parsemer généreusement de copeaux de parmesan avant de servir.",
+      "imageUrl": "https://i.pinimg.com/1200x/2b/76/21/2b7621769b5076421937b37856188ed3.jpg"
+    },
+    {
+      "id": "6",
+      "titre": "Pâtes à la Carbonara Italienne",
+      "ingredients": "200g de spaghetti, 100g de guanciale (ou lardons), 2 jaunes d'œufs, 50g de pécorino romano (ou parmesan), poivre noir fraîchement moulu.",
+      "instructions": "Faire cuire les spaghettis dans de l'eau bouillante salée. Pendant ce temps, faire dorer le guanciale dans une poêle sans matière grasse. Dans un bol, fouetter les jaunes d'œufs avec le fromage râpé et beaucoup de poivre noir. Égoutter les pâtes en gardant un peu d'eau de cuisson. Mélanger les pâtes avec le guanciale chaud, couper le feu, puis ajouter le mélange d'œufs en remuant énergiquement pour obtenir une sauce crémeuse (sans crème fraîche !).",
+      "imageUrl": "https://i.pinimg.com/1200x/e3/cb/36/e3cb3608493e537adf56a23cba3f6be3.jpg"
+    },
+    {
+      "id": "7",
+      "titre": "Mousse au Chocolat Aérienne",
+      "ingredients": "200g de chocolat noir, 6 œufs, 1 pincée de sel, 20g de beurre (optionnel).",
+      "instructions": "Faire fondant le chocolat cassé en morceaux au bain-marie (avec le beurre si désirez). Séparer les blancs des jaunes d'œufs. Ajouter les jaunes au chocolat fondu et tiédi en mélangeant rapidement. Monter les blancs en neige ferme avec une pincée de sel. Incorporer délicatement un tiers des blancs au chocolat pour détendre la pâte, puis le reste à l'aide d'une maryse en soulevant la préparation. Répartir dans des ramequins et réserver au frais pendant au moins 4 heures.",
+      "imageUrl": "https://i.pinimg.com/1200x/3c/6d/1c/3c6d1ce5073227b0cb751812c974b7f7.jpg"
+    },
+    {
+      "id": "8",
+      "titre": "Foufou au Poulet Sauce Graine",
+      "ingredients": "Ignames de bonne qualité (ex: Laboko), graines de palme, morceaux de poulet local, oignons, ail, piment frais, épices locales, tomates.",
+      "instructions": "Éplucher les ignames, les couper en morceaux et les faire bouillir. Une fois cuites, les piler énergiquement dans un mortier jusqu'à obtenir une pâte homogène, lisse et élastique (le Foufou). Parallèlement, faire bouillir les graines de palme, les piler pour en extraire le jus concentré. Faire cuire le poulet avec l'ail, l'oignon et les épices, puis y ajouter le jus de palme extrait et de la tomate concentrée. Laisser mijoter jusqu'à ce que la sauce soit bien onctueuse. Servir le foufou chaud nappé de cette sauce graine.",
+      "imageUrl": "https://i.pinimg.com/1200x/6c/43/20/6c4320b620cae7a2ed0e60e880fdbc96.jpg"
+    },
+    {
+      "id": "9",
+      "titre": "Ayimolou (Riz au Haricot) complet",
+      "ingredients": "Riz, haricots rouges ou œil noir, potasse, oignons, piment noir en poudre (Shito), poisson frit ou Wagassi (fromage peul), huile, œuf bouilli.",
+      "instructions": "Faire cuire les haricots dans de l'eau avec un petit morceau de potasse pour les ramollir et leur donner cette couleur sombre caractéristique. Quand ils sont presque cuits, ajouter le riz lavé dans la même marmite. Laisser cuire ensemble jusqu'à absorption complète de l'eau. Préparer à côté une friture d'oignons. Servir l'Ayimolou chaud accompagné de piment noir (Shito), de piment vert écrasé, de l'huile parfumée aux oignons grillés, de poisson frit et d'un œuf bouilli.",
+      "imageUrl": "https://i.pinimg.com/1200x/81/35/5a/81355a94fa4dd3adef7b0adbc9622ad9.jpg"
+    },
+    {
+      "id": "10",
+      "titre": "Djenkoumé au Poulet Grillé",
+      "ingredients": "Farine de maïs rouge (ou torréfiée), tomate concentrée, oignons, ail, piment frais, bouillon de poulet, morceaux de poulet, huile de palme ou d'arachide.",
+      "instructions": "Faire bouillir et assaisonner le poulet avec de l'ail et des oignons pour obtenir un bouillon riche. Retirer le poulet et le faire griller ou frire. Dans une casserole, faire revenir des oignons et de la tomate concentrée, puis ajouter le bouillon de poulet tamisé. Porter à ébullition. Verser progressivement la farine de maïs en pluie tout en remuant vigoureusement avec une spatule en bois pour éviter les grumeaux. Cuire à feu doux jusqu'à ce que la pâte soit bien ferme et se détache des parois. Servir en boules avec le poulet grillé et un peu de piment.",
+      "imageUrl": "https://i.pinimg.com/736x/c6/f4/29/c6f429fb7d00afd3dc194a2cb18a9c8c.jpg"
+    },
+    {
+      "id": "11",
+      "titre": "Adémè-Dessy (Sauce Adémè)",
+      "ingredients": "Feuilles de crabe (Adémè) fraîches, crabe, crevettes séchées ou fraîches, poisson fumé, un morceau de Lanhouin (poisson fermenté), piment, oignon, bicarbonate de soude (une pincée).",
+      "instructions": "Laver soigneusement les feuilles d'Adémè et les hacher finement. Dans une casserole, porter à ébullition un peu d'eau avec le Lanhouin, les crabes et les poissons fumés. Ajouter une micro-pincée de bicarbonate pour préserver la couleur verte et la texture gluante. Jeter les feuilles d'Adémè hachées dans le bouillon bouillant. Laisser cuire quelques minutes en remuant régulièrement. Ajouter les crevettes séchées et le piment entier. Servir cette sauce gluante traditionnelle avec de la pâte de maïs (Akoumé).",
+      "imageUrl": "https://i.pinimg.com/1200x/77/73/4a/77734aa016eeb441e698a1831fc3018c.jpg"
+    },
+    {
+      "titre": "tarte aux pommes",
+      "ingredients": "vv",
+      "instructions": "vvv",
+      "imageUrl": "",
+      "id": "O0o52uvqk1c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

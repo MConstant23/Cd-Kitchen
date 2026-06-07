@@ -1,24 +1,32 @@
-import logo from './logo.svg';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Accueil from './pages/Accueil';
+import DetailRecette from './pages/DetailRecette';
+import AjouterRecette from './pages/AjouterRecette';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+        <Navbar />
+        <main className="container">
+          <Routes>
+            <Route path="/" element={<Accueil />} />
+            <Route path="/ajouter" element={<AjouterRecette />} />
+            <Route path="/recette/:id" element={<DetailRecette />} />
+            {/* Route 404 facultative */}
+            <Route path="*" element={
+              <div className="status-message">
+                <h2>⚠️ Page non trouvée (404)</h2>
+                <p>La page que vous recherchez n'existe pas.</p>
+              </div>
+            } />
+          </Routes>
+        </main>
+      </div>
+    </Router>
   );
 }
 
